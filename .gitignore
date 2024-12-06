@@ -1,0 +1,6 @@
+.venv/
+/musae_facebook_edges.csv
+/musae_facebook_features.csv
+/musae_facebook_target.csv
+credentials.json
+.dvc/
